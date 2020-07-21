@@ -129,6 +129,7 @@ def station_stats(df):
     print('-'*40)
 
 def time_calculation(total_travel_time,calculation_type):
+	"""Converts time in second to day, hour, minutes and seconds"""
     time = total_travel_time
     day = total_travel_time // (24 * 3600)
     time = time % (24 * 3600)
