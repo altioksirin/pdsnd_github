@@ -18,6 +18,11 @@ Files used for data analysis are as followings:
 * Popular stations and trip
 * Trip duration
 * User info
+
+### Requirements
+* Language: Python 3.6 or above
+* Libraries: pandas, numpy, time
+
 ### Credits
 Repos that inspired me:
 
