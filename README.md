@@ -26,7 +26,7 @@ Files used for data analysis are as followings:
 ### Credits
 Repos that inspired me:
 
-    - [https://github.com/igorstojanovic91/udacity-bikeshare-project](https://github.com/igorstojanovic91/udacity-bikeshare-project)
-    - [https://github.com/okaysidd/bikeshare](https://github.com/okaysidd/bikeshare)
+* [https://github.com/igorstojanovic91/udacity-bikeshare-project](https://github.com/igorstojanovic91/udacity-bikeshare-project)
+* [https://github.com/okaysidd/bikeshare](https://github.com/okaysidd/bikeshare)
 
 
