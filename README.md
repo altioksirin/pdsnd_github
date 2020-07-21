@@ -13,9 +13,15 @@ Files used for data analysis are as followings:
 * washington.csv
 * bikeshare.py
 
+### Statistics Computed
+* Popular times of travel
+* Popular stations and trip
+* Trip duration
+* User info
 ### Credits
 Repos that inspired me:
 
     - [https://github.com/igorstojanovic91/udacity-bikeshare-project](https://github.com/igorstojanovic91/udacity-bikeshare-project)
     - [https://github.com/okaysidd/bikeshare](https://github.com/okaysidd/bikeshare)
 
+
