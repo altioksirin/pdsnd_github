@@ -4,7 +4,7 @@
 
 ### Description
 This project Uses Python to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user chooses and filter for a dataset to analyze.
-
+The project performs analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
 ### Files used
 Files used for data analysis are as followings:
 
