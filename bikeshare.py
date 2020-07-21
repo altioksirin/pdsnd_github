@@ -31,7 +31,7 @@ def get_filters():
             
     # TO DO: get user input for month (all, january, february, ... , june) 
         
-    month = input("\nWhich month would you like to analyze? \
+    month = input("\nChoose the month to analyze? \
                        \n Enter a month as: January, February, March, April, May, June \n OR enter all for no month filter: ").lower()
     
     while month not in months:
@@ -39,7 +39,7 @@ def get_filters():
             
    
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
-    day = input("\nWhich day would you like to analyze? \
+    day = input("\nChoose the day to analyze? \
                        \n Enter a day as : Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday \n OR enter all for no day filter: ").lower()
     
     while day not in days:
