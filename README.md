@@ -8,10 +8,11 @@ This project Uses Python to understand U.S. bikeshare data. Calculate statistics
 ### Files used
 Files used for data analysis are as followings:
 
-* chicago.csv
-* new_york_city.csv
-* washington.csv
-* bikeshare.py
+* chicago.csv - Dataset containing all bikeshare information for the city of Chicago provided by Udacity.
+* new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
+* washington.csv  - Dataset containing all bikeshare information for the city of Washington provided by Udacity. 
+					This does not include the 'Gender' or 'Birth Year' data.
+* bikeshare.py - Python script for executing data
 
 ### Statistics Computed
 * Popular times of travel
