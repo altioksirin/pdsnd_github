@@ -1,15 +1,21 @@
-### Date created
-Include the date you created this project and README file.
+### 21.07.2020
 
-### Project Title
-Replace the Project Title
+### Bikeshare Data Analysis Project
 
 ### Description
-Describe what your project is about and what it does
+This project Uses Python to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user chooses and filter for a dataset to analyze.
 
 ### Files used
-Include the files used
+Files used for data analysis are as followings:
+
+* chicago.csv
+* new_york_city.csv
+* washington.csv
+* bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Repos that inspired me:
+
+    - [https://github.com/igorstojanovic91/udacity-bikeshare-project](https://github.com/igorstojanovic91/udacity-bikeshare-project)
+    - [https://github.com/okaysidd/bikeshare](https://github.com/okaysidd/bikeshare)
 
